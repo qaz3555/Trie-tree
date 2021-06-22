@@ -1,2 +1,2 @@
 # Trie-tree
-use python
+Python Trie tree 範例
